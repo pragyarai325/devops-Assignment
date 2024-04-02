@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "J6TTTshE3loOUN3cJBJ4aZvWtfaQMxy6Wvc8lKTtx9EwoAHm9za5yCqN1DPczirXvh6kapguAXgYWDQ8TCiawQ==",
+  "dgSpecHash": "Erbm0XZd3JJjVm0frznxyb2kcVXMg49ONc/bnJzSl+y25pYSM5z80Pvc7v6avDWPwGiLtnO5TFsEWLzwc7FyWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pragyarai\\Desktop\\devops\\WebApplication1\\WebApplication1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pragyarai\\Desktop\\devops\\WebApplication1\\WebApplication4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pragyarai\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
   "logs": []
 }
